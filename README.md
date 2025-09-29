@@ -1,7 +1,11 @@
 # MCA eConsultation Sentiment Analysis Backend API
 
 A GPU-accelerated FastAPI backend for analyzing sentiment in government consultation comments using advanced AI models.
-
+For now only run the enhanced_mca_sentiment_app.py
+use command :
+```bash
+streamlit run enhanced_mca_sentiment_app.py
+```
 ## Features
 
 - **GPU-Accelerated Processing**: Utilizes RoBERTa model with GPU support for high-performance sentiment analysis
